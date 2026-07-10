@@ -1,6 +1,3 @@
-Perfetto Ital — allora procediamo **senza screenshot**, come hai chiesto.  
-Con il codice del tuo *Form1* che mi hai passato, posso ora generare un **README.md perfetto per GitHub**, dedicato al *progetto di esempio*, chiaro, professionale e pronto da pubblicare.
-
 Il repository contiene:
 
 - il progetto WinForms di esempio  
